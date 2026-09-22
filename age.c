@@ -2,8 +2,9 @@
 
 int main()
 {
-    printf("请输入你的年龄：");
+    int age;
+    printf("please enter your age:");
     scanf("%d",&age);
-    printf("你的年龄是：%d\n",age);
+    printf("your name is:%d\n",age);
     return 0;
 }
