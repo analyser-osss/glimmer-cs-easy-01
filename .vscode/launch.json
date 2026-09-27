@@ -12,6 +12,7 @@
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
+            "preLaunchTask": "编译当前C文件",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
