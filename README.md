@@ -23,4 +23,23 @@
 ![内置终端](images/neizhi.jpg)
 ![外置终端](images/waizhi.jpg)
 
+# Day 3
+
+## 今日完成
+- 看完了视频 `if/else`、`while`、`switch` 分支语句。
+
+- 独立手敲并跑通了三个程序：
+
+  1. `score.c`：成绩等级判断（练 `if/else if` 多分支）。
+
+  2. `leap-year.c`：闰年判断（练逻辑运算符 `&&` 和 `||` 的优先级）。
+
+  3. `calculator.c`：简易计算器（练 `switch...case` 分支和 `break`）。
+
+## 踩坑记录
+
+- **if连写错误**：不能写 `100 >= number >= 90`，必须用 `&&` 拆开，如 `number >= 90 && number <= 100`。
+
+- **switch穿透**：`case` 里的 `printf` 后面必须加 `break;`，否则会穿透执行下面的所有 `case`。
+
         
