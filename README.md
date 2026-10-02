@@ -1,12 +1,12 @@
-# 微光招新题
+# 微光招新题 C-EASY-1
 
-# Day1
+## Day1
 ## 今日完成
 ·成功尝试通过git上传文件
 
 ·独立写了一个helloworld程序
 
-# Day2
+## Day2
 ## 今日完成（括号内是ai辅助）
 ·三个json
 
@@ -23,8 +23,7 @@
 ![内置终端](images/neizhi.jpg)
 ![外置终端](images/waizhi.jpg)
 
-# Day 3
-
+## Day 3
 ## 今日完成
 - 看完了视频 `if/else`、`while`、`switch` 分支语句。
 
@@ -119,9 +118,9 @@ mingw是windows的gcc移植版，让Windows能编译出.exe
 }
 
 
-(5)内置终端运行截图：`![内置终端](images/neizhi.jpg)`
+(5)内置终端运行截图：![内置终端](images/neizhi.jpg)
 
-外置终端运行截图：`![外置终端](images/waizhi.jpg)`
+外置终端运行截图：![外置终端](images/waizhi.jpg)
 
 ## Part 2: C语言基础
 
